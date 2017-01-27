@@ -14,6 +14,9 @@ My personal notes about javascript learning resources you can find on the intern
 |A Guide For Building A React Redux CRUD App|<ul><li>https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f</li></ul>|Article|
 |React Binding Patterns: 5 Approaches for Handling `this`|<ul><li>https://medium.com/@housecor/react-binding-patterns-5-approaches-for-handling-this-92c651b5af56</li></ul>|Article|
 |React.js pure render performance anti-pattern|<ul><li>https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f</li></ul>|Article|
+|Leveling Up With React|<ul><li>https://css-tricks.com/learning-react-router/</li><li>https://css-tricks.com/learning-react-container-components/</li><li>https://css-tricks.com/learning-react-redux/</li></ul>|Articles|
+|Overview of ECMAScript 6 features|<ul><li>https://github.com/lukehoban/es6features</li></ul>|Repository|
+|Master the JavaScript Interview: What is Functional Programming?|<ul><li>https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0</li></ul>|Article|
 
 ### Maybe a bit of CSS won't hurt?
 |Title|Link|Type|
