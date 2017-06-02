@@ -20,6 +20,7 @@ My personal notes about javascript learning resources you can find on the intern
 
 ### Paid Resources
 |Title|Link|Type|
+|---|---|---|
 |JavaScript: Understanding the Weird Parts|<ul><li>https://www.udemy.com/understand-javascript/</li></ul>|Videos|
 
 ### Maybe a bit of CSS won't hurt?
