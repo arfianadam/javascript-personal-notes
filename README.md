@@ -18,6 +18,10 @@ My personal notes about javascript learning resources you can find on the intern
 |Overview of ECMAScript 6 features|<ul><li>https://github.com/lukehoban/es6features</li></ul>|Repository|
 |Master the JavaScript Interview: What is Functional Programming?|<ul><li>https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0</li></ul>|Article|
 
+### Paid Resources
+|Title|Link|Type|
+|JavaScript: Understanding the Weird Parts|<ul><li>https://www.udemy.com/understand-javascript/</li></ul>|Videos|
+
 ### Maybe a bit of CSS won't hurt?
 |Title|Link|Type|
 |---|---|---|
