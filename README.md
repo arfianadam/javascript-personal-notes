@@ -17,6 +17,7 @@ My personal notes about javascript learning resources you can find on the intern
 |Leveling Up With React|<ul><li>https://css-tricks.com/learning-react-router/</li><li>https://css-tricks.com/learning-react-container-components/</li><li>https://css-tricks.com/learning-react-redux/</li></ul>|Articles|
 |Overview of ECMAScript 6 features|<ul><li>https://github.com/lukehoban/es6features</li></ul>|Repository|
 |Master the JavaScript Interview: What is Functional Programming?|<ul><li>https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0</li></ul>|Article|
+|Presentational and Container Components|<ul><li>https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0</li></ul>|Article|
 
 ### Paid Resources
 |Title|Link|Type|
