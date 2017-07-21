@@ -18,6 +18,7 @@ My personal notes about javascript learning resources you can find on the intern
 |Overview of ECMAScript 6 features|<ul><li>https://github.com/lukehoban/es6features</li></ul>|Repository|
 |Master the JavaScript Interview: What is Functional Programming?|<ul><li>https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0</li></ul>|Article|
 |Presentational and Container Components|<ul><li>https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0</li></ul>|Article|
+|Understanding redux-thunk and why we need it|<ul><li>https://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559</li></ul>|Stackoverflow|
 
 ### Paid Resources
 |Title|Link|Type|
