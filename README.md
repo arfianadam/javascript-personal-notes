@@ -12,6 +12,7 @@ My personal notes about javascript learning resources you can find on the intern
 |Functional Programming In JavaScript — With Practical Examples|<ul><li>https://medium.freecodecamp.com/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276</li><li>https://medium.freecodecamp.com/functional-programming-in-js-with-practical-examples-part-2-429d2e8ccc9e</li></ul>|Articles|
 |Why Redux need reducers to be “pure functions”|<ul><li>https://medium.freecodecamp.com/why-redux-needs-reducers-to-be-pure-functions-d438c58ae468</li></ul>|Article|
 |A Guide For Building A React Redux CRUD App|<ul><li>https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f</li></ul>|Article|
+|Understanding Higher Order Components|<ul><li>https://medium.freecodecamp.org/understanding-higher-order-components-6ce359d761b</li></ul>|Article|
 |React Binding Patterns: 5 Approaches for Handling `this`|<ul><li>https://medium.com/@housecor/react-binding-patterns-5-approaches-for-handling-this-92c651b5af56</li></ul>|Article|
 |React.js pure render performance anti-pattern|<ul><li>https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f</li></ul>|Article|
 |Leveling Up With React|<ul><li>https://css-tricks.com/learning-react-router/</li><li>https://css-tricks.com/learning-react-container-components/</li><li>https://css-tricks.com/learning-react-redux/</li></ul>|Articles|
