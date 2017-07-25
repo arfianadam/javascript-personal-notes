@@ -22,6 +22,7 @@ My personal notes about javascript learning resources you can find on the intern
 |Understanding redux-thunk and why we need it|<ul><li>https://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559</li></ul>|Stackoverflow|
 |Rearchitecting Airbnb’s Frontend|<ul><li>https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2</li></ul>|Article|
 |How to resize then crop an image with canvas|<ul><li>https://stackoverflow.com/questions/26015497/how-to-resize-then-crop-an-image-with-canvas</li></ul>|Stackoverflow|
+|How to drag elements using pure javascript|<ul><li>https://stackoverflow.com/questions/17992543/how-do-i-drag-an-image-smoothly-around-the-screen-using-pure-javascript</li></ul>|Stackoverflow|
 
 ### Paid Resources
 |Title|Link|Type|
