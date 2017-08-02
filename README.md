@@ -26,6 +26,7 @@ My personal notes about javascript learning resources you can find on the intern
 |How to convert image into base64 string using javascript|<ul><li>https://stackoverflow.com/questions/6150289/how-to-convert-image-into-base64-string-using-javascript</li></ul>|Stackoverflow|
 |Redux 4 Ways|<ul><li>https://medium.com/react-native-training/redux-4-ways-95a130da0cdc</li></ul>|Article|
 |Top Resources to Explore React Fiber|<ul><li>https://hackernoon.com/top-resources-to-explore-react-fiber-9a2b19114520</li></ul>|Article|
+|Front-End Developer Handbook 2017|<ul><li>https://github.com/FrontendMasters/front-end-handbook-2017</li></ul>|Book|
 
 ### Paid Resources
 |Title|Link|Type|
