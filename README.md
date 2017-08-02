@@ -27,6 +27,7 @@ My personal notes about javascript learning resources you can find on the intern
 |Redux 4 Ways|<ul><li>https://medium.com/react-native-training/redux-4-ways-95a130da0cdc</li></ul>|Article|
 |Top Resources to Explore React Fiber|<ul><li>https://hackernoon.com/top-resources-to-explore-react-fiber-9a2b19114520</li></ul>|Article|
 |Front-End Developer Handbook 2017|<ul><li>https://github.com/FrontendMasters/front-end-handbook-2017</li></ul>|Book|
+|React Router V4 Fundamentals|<ul><li>https://www.youtube.com/watch?v=_Fzl0Cim6F8</li></ul>|Youtube|
 
 ### Paid Resources
 |Title|Link|Type|
