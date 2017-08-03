@@ -1,5 +1,5 @@
 # Javascript personal notes
-My personal note about javascript learning resources you can find on the internet. This note is expanding and soon or latter gonna need better organizing. I might want to host it somewhere and add some interactive to it, but the latter is somewhat off the original purpose. Just wanted to make it simple.
+My personal note about javascript learning resources you can find on the internet. This note is expanding and soon or later gonna need better organizing. I might want to host it somewhere and add some interactive to it, but the latter is somewhat off the original purpose. Just wanted to make it simple.
 
 |Title|Link|Type|
 |---|---|---|
