@@ -30,6 +30,7 @@ My personal note about javascript learning resources you can find on the interne
 |React Router V4 Fundamentals|<ul><li>https://www.youtube.com/watch?v=_Fzl0Cim6F8</li></ul>|Youtube|
 |A Simple React Router v4 Tutorial|<ul><li>https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf</li></ul>|Article|
 |Getting Started with React Router v4 in Meteor|<ul><li>https://themeteorchef.com/tutorials/getting-started-with-react-router-v4</li></ul>|Article|
+|JS: The right way|<ul><li>http://jstherightway.org/</li></ul>|Article|
 
 ### Paid Resources
 |Title|Link|Type|
