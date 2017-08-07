@@ -32,6 +32,7 @@ My personal note about javascript learning resources you can find on the interne
 |Getting Started with React Router v4 in Meteor|<ul><li>https://themeteorchef.com/tutorials/getting-started-with-react-router-v4</li></ul>|Article|
 |JS: The right way|<ul><li>http://jstherightway.org/</li></ul>|Website|
 |Improve Your UX by Dynamically Rendering Images via React.js|<ul><li>https://www.codementor.io/andrewwong/improve-your-ux-by-dynamically-rendering-images-via-react-js-68mx3e1dg</li></ul>|Article|
+|JS Books (free books!)|<ul><li>http://jsbooks.revolunet.com/</li></ul>|Books|
 
 ### Paid Resources
 |Title|Link|Type|
