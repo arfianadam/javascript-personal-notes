@@ -33,7 +33,8 @@ My personal note about javascript learning resources you can find on the interne
 |JS: The right way|<ul><li>http://jstherightway.org/</li></ul>|Website|
 |Improve Your UX by Dynamically Rendering Images via React.js|<ul><li>https://www.codementor.io/andrewwong/improve-your-ux-by-dynamically-rendering-images-via-react-js-68mx3e1dg</li></ul>|Article|
 |JS Books (free books!)|<ul><li>http://jsbooks.revolunet.com/</li></ul>|Books|
-|Functional setState is the future of React|<ul><li>https://medium.freecodecamp.org/functional-setstate-is-the-future-of-react-374f30401b6b</li></ul>|Books|
+|Functional setState is the future of React|<ul><li>https://medium.freecodecamp.org/functional-setstate-is-the-future-of-react-374f30401b6b</li></ul>|Article|
+|Functional Components with React stateless functions and Ramda|<ul><li>https://medium.com/@mirkomariani/functional-components-with-react-stateless-functions-and-ramda-e83e54fcd86b</li></ul>|Article|
 
 ### Paid Resources
 |Title|Link|Type|
