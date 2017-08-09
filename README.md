@@ -36,6 +36,7 @@ My personal note about javascript learning resources you can find on the interne
 |Functional setState is the future of React|<ul><li>https://medium.freecodecamp.org/functional-setstate-is-the-future-of-react-374f30401b6b</li></ul>|Article|
 |Functional Components with React stateless functions and Ramda|<ul><li>https://medium.com/@mirkomariani/functional-components-with-react-stateless-functions-and-ramda-e83e54fcd86b</li></ul>|Article|
 |All About React Router 4|<ul><li>https://css-tricks.com/react-router-4/</li></ul>|Article|
+|Code Splitting for React Router with Webpack and HMR|<ul><li>https://hackernoon.com/code-splitting-for-react-router-with-webpack-and-hmr-bb509968e86f</li></ul>|Article|
 
 ### Paid Resources
 |Title|Link|Type|
