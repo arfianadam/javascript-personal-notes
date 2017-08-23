@@ -39,6 +39,7 @@ My personal note about javascript learning resources you can find on the interne
 |Code Splitting for React Router with Webpack and HMR|<ul><li>https://hackernoon.com/code-splitting-for-react-router-with-webpack-and-hmr-bb509968e86f</li></ul>|Article|
 |Build Virtual Reality Experiences Using React VR|<ul><li>https://egghead.io/courses/build-virtual-reality-experiences-using-react-vr</li></ul>|Videos|
 |Functional-Light-JS|<ul><li>https://github.com/getify/Functional-Light-JS</li></ul>|Book|
+|spellbook-of-modern-webdev (this is **huge**!)|<ul><li>https://github.com/dexteryy/spellbook-of-modern-webdev</li></ul>|Repository|
 
 
 ### Paid Resources
