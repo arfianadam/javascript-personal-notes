@@ -42,6 +42,7 @@ My personal note about javascript learning resources you can find on the interne
 |spellbook-of-modern-webdev (this is **huge**!)|<ul><li>https://github.com/dexteryy/spellbook-of-modern-webdev</li></ul>|Repository|
 |Async/Await Will Make Your Code Simpler|<ul><li>http://blog.patricktriest.com/what-is-async-await-why-should-you-care/</li></ul>|Article|
 |10 Tips for Better Redux Architecture|<ul><li>https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44/</li></ul>|Article|
+|10 JavaScript concepts you need to know for interviews|<ul><li>https://codeburst.io/10-javascript-concepts-you-need-to-know-for-interviews-136df65ecce</li></ul>|Article|
 
 
 ### Paid Resources
