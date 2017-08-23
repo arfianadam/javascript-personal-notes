@@ -38,6 +38,7 @@ My personal note about javascript learning resources you can find on the interne
 |All About React Router 4|<ul><li>https://css-tricks.com/react-router-4/</li></ul>|Article|
 |Code Splitting for React Router with Webpack and HMR|<ul><li>https://hackernoon.com/code-splitting-for-react-router-with-webpack-and-hmr-bb509968e86f</li></ul>|Article|
 |Build Virtual Reality Experiences Using React VR|<ul><li>https://egghead.io/courses/build-virtual-reality-experiences-using-react-vr</li></ul>|Videos|
+|Functional-Light-JS|<ul><li>https://github.com/getify/Functional-Light-JS</li></ul>|Book|
 
 
 ### Paid Resources
