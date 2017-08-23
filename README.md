@@ -44,6 +44,7 @@ My personal note about javascript learning resources you can find on the interne
 |10 Tips for Better Redux Architecture|<ul><li>https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44/</li></ul>|Article|
 |10 JavaScript concepts you need to know for interviews|<ul><li>https://codeburst.io/10-javascript-concepts-you-need-to-know-for-interviews-136df65ecce</li></ul>|Article|
 |Why you need to separate vendor libraries from application code|<ul><li>https://blog.arfianadam.com/2017/08/20/splitting-vendor-libraries/</li></ul>|Article|
+|Separating vendor libraries using webpack|<ul><li>https://blog.arfianadam.com/2017/08/21/separating-vendor-libraries-using-webpack/</li></ul>|Article|
 
 
 ### Paid Resources
