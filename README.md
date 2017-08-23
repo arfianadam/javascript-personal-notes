@@ -40,6 +40,7 @@ My personal note about javascript learning resources you can find on the interne
 |Build Virtual Reality Experiences Using React VR|<ul><li>https://egghead.io/courses/build-virtual-reality-experiences-using-react-vr</li></ul>|Videos|
 |Functional-Light-JS|<ul><li>https://github.com/getify/Functional-Light-JS</li></ul>|Book|
 |spellbook-of-modern-webdev (this is **huge**!)|<ul><li>https://github.com/dexteryy/spellbook-of-modern-webdev</li></ul>|Repository|
+|Async/Await Will Make Your Code Simpler|<ul><li>http://blog.patricktriest.com/what-is-async-await-why-should-you-care/</li></ul>|Article|
 
 
 ### Paid Resources
