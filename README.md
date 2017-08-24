@@ -47,6 +47,7 @@ My personal note about javascript learning resources you can find on the interne
 |Separating vendor libraries using webpack|<ul><li>https://blog.arfianadam.com/2017/08/21/separating-vendor-libraries-using-webpack/</li></ul>|Article|
 |DESTROY ALL CLASSES: Turn React Components Inside Out with Functional Programming|<ul><li>https://www.bignerdranch.com/blog/destroy-all-classes-turn-react-components-inside-out-with-functional-programming/</li></ul>|Article|
 |Javascript ES6 — Exploring the New Built-In Methods|<ul><li>https://hackernoon.com/javascript-es6-exploring-the-new-built-in-methods-b62583b0a8e6</li></ul>|Article|
+|You-Dont-Know-JS|<ul><li>https://github.com/getify/You-Dont-Know-JS</li></ul>|Article|
 
 
 ### Paid Resources
